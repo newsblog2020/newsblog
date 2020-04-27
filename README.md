@@ -1,4 +1,4 @@
-# Newsblog
+# Newsblog v1.0.1
 ### 我们不创作内容，只是内容搬运工
 仅作为个人练习使用，不用于商业服务，如有侵权问题，请及时联系告之
 
@@ -8,3 +8,7 @@
 
 ### 下载地址：
 https://github.com/newsblog2020/newsblog/blob/master/apk/newsblog.apk
+
+### 版本
+1.0.1 修复了部分问题
+
